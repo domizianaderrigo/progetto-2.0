@@ -1,0 +1,91 @@
+body {
+	font-family: 'Inika', serif;
+	background: #FFFACD;
+	}
+
+header, footer {
+	background: #F01805;
+
+}
+
+.menu li {
+	background: #B01919;
+	margin: 10px;
+	font-size: 20px;
+	
+	border-radius: 26px;
+}
+
+main {
+	width: 1400px;
+	margin: 0 auto;
+}
+
+.menu li a {
+	font-family: 'Inika', serif;
+	font-size: 25px;
+	font-weight: 700;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+
+
+h1 {
+	font-size: 50px;
+	text-align: right;
+}
+
+div.anteprime {
+	display: flex;
+	justify-content: space-around;
+}
+
+.prezzo {
+	border: 2px solid black;
+	padding: 30px 50px 50px;
+	margin: 30px;
+}
+
+form {
+	display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.gallery {
+	border: 2px solid black;
+	padding: 30px 50px 20px;
+	margin: 30px;
+	text-align: center;
+	width: 300px;
+}
+
+.invia {
+	padding: 20px;
+}
+
+.bottom li a {
+	font-family: 'Inika', serif;
+	font-size: 20px;
+	font-weight: 400;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.bottom li {
+	background: #B01919;
+	margin: 5px;
+	font-size: 20px;
+	padding: 5px 20px;
+	border-radius: 20px;
+}
+
+ul.bottom {
+	display: flex;
+	justify-content: space-evenly;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	align-items: center;
+}
